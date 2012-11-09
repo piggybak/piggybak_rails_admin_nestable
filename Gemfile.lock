@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    piggybak_rails_admin_nestable (0.0.1)
+    piggybak_rails_admin_nestable (0.0.2)
       rails (~> 3.2)
       rails_admin
 
