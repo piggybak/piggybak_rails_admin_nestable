@@ -5,7 +5,7 @@ require "rails_admin_nestable/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "rails_admin_nestable"
+  s.name        = "piggybak_rails_admin_nestable"
   s.version     = RailsAdminNestable::VERSION
   s.authors     = ["Andrea Dal Ponte"]
   s.email       = ["info@andreadalponte.com"]
