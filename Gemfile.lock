@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    piggybak_rails_admin_nestable (0.0.5)
+    piggybak_rails_admin_nestable (0.0.6)
 
 GEM
   remote: http://rubygems.org/
